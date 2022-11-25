@@ -1,4 +1,4 @@
-import Hero from "components/Hero.jsx";
+import Hero from "components/Hero/Hero.jsx";
 
 export default function Blog () {
   return (
